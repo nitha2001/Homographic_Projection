@@ -2,7 +2,7 @@
 
 
 ## Overview
-This project implements the techniques of projective geometry and homographies to project the Penn Engineering logo onto video frames of a football match.
+This project demonstrates the application of projective geometry and homographies to project the Penn Engineering logo onto video frames of a football match. Using Python and libraries such as NumPy and OpenCV, the homography is computed to accurately map the logo to the goal's perspective. The results showcase the effectiveness of these techniques in achieving realistic image projections in dynamic scenes.
 
 ## Contents
 - `project_logo.py`: Main script for logo projection.
