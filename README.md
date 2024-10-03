@@ -17,8 +17,4 @@ This project requires the following Python packages:
 - matplotlib
 - opencv-python
 
-## Instructions
-1. Clone this repository.
-2. Install the required packages.
-3. Run the main script using `python project_logo.py`.
-4. Refer to `coding_report.pdf` for detailed explanations and results.
+
